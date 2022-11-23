@@ -1,0 +1,9 @@
+{
+  "name": "longer-upipes",
+  "version": "0.1.0",
+  "title": "Longer Underground pipes",
+  "author": "bonemind",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Adds craftable underground pipes for longer pipes"
+}
